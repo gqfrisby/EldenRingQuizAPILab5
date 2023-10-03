@@ -1,14 +1,4 @@
-﻿///////////////////////////////////////////////////////////////////////////////
-//
-// Author: Gavin Frisby, frisbyg@etsu.edu
-// Jacob Gillenwater, Gillenwater@etsu.edu
-// Course: CSCI-2210-001 - Data Structures
-// Assignment: Project 5 - Binary Tree Quiz
-// Description: The BinaryTreeNode extends the regular TreeNode Class.
-// The BinaryTreeNode acts similiarly to the Tree node, with the contraints and
-// methods to make it more applicable to Binary Trees. 
-//
-///////////////////////////////////////////////////////////////////////////////
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;

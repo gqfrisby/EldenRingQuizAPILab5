@@ -1,13 +1,4 @@
-﻿///////////////////////////////////////////////////////////////////////////////
-//
-// Author: Gavin Frisby, frisbyg@etsu.edu
-// Jacob Gillenwater, Gillenwater@etsu.edu
-// Course: CSCI-2210-001 - Data Structures
-// Assignment: Project 5 - Binary Tree Quiz
-// Description: The BinaryTree file is constructor/Object file 
-// That serves as the linking object between lists/nodes. 
-//
-///////////////////////////////////////////////////////////////////////////////
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;

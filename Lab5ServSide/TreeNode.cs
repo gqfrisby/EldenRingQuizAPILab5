@@ -1,14 +1,4 @@
-﻿///////////////////////////////////////////////////////////////////////////////
-//
-// Author: Gavin Frisby, frisbyg@etsu.edu
-// Jacob Gillenwater, Gillenwater@etsu.edu
-// Course: CSCI-2210-001 - Data Structures
-// Assignment: Project 5 - Binary Tree Quiz
-// Description: The TreeNode<T> or tree node generic class is the outlining 
-// class for each node within a tree. The objects is assigned a parent
-// and creates a list based on the inputted data. 
-//
-///////////////////////////////////////////////////////////////////////////////
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
